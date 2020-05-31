@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">lacarpaverde</string>
+    <string name="title_activity_main">lacarpaverde</string>
+    <string name="package_name">com.lacarpaverde.app</string>
+    <string name="custom_url_scheme">com.lacarpaverde.app</string>
+</resources>
